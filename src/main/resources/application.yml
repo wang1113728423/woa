@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: oa
+  security:
+    user:
+      name: wang
+      password: 123

@@ -11,5 +11,6 @@ public class Test1 {
     @GetMapping("/test1")
     public void test1(){
         System.out.println("security");
+        System.out.println("test git");
     }
 }
